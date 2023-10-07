@@ -1,4 +1,3 @@
-
 # 视频口罩数量检测
 
 ## Python环境
@@ -13,3 +12,6 @@ pip install -r requirements.txt
 ```python
 python alogrithem/mask_det.py
 ```
+
+
+
