@@ -1,0 +1,38 @@
+[
+    {
+        "location": {
+            "left": 636,
+            "top": 2,
+            "width": 122,
+            "height": 122
+        },
+        "face_mask": {
+            "score": 0.906478226184845,
+            "name": 1
+        }
+    },
+    {
+        "location": {
+            "left": 437,
+            "top": 135,
+            "width": 108,
+            "height": 107
+        },
+        "face_mask": {
+            "score": 0.8780824542045593,
+            "name": 1
+        }
+    },
+    {
+        "location": {
+            "left": 96,
+            "top": 116,
+            "width": 72,
+            "height": 90
+        },
+        "face_mask": {
+            "score": 0.8664426803588867,
+            "name": 1
+        }
+    }
+]
